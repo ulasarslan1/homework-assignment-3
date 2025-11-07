@@ -1,0 +1,35 @@
+2025-11-07T03:03:36 - Starting charging for AGV-1
+2025-11-07T03:03:37 - Finished charging AGV-1
+2025-11-07T03:03:41 - Starting charging for AGV-5
+2025-11-07T03:03:41 - ERROR: MALFUNCTION
+2025-11-07T03:03:45 - Starting charging for AGV-7
+2025-11-07T03:03:45 - Starting charging for AGV-8
+2025-11-07T03:03:46 - Finished charging AGV-8
+2025-11-07T03:03:46 - Starting charging for AGV-9
+2025-11-07T03:03:47 - Finished charging AGV-7
+2025-11-07T03:03:48 - Finished charging AGV-9
+2025-11-07T03:08:07 - Starting charging for AGV-1
+2025-11-07T03:08:08 - Finished charging AGV-1
+2025-11-07T03:08:08 - Unexpected error: Range [0, 18) out of bounds for length 15
+2025-11-07T03:14:37 - Starting charging for AGV-6
+2025-11-07T03:14:37 - Unexpected error: Range [0, 18) out of bounds for length 16
+2025-11-07T03:14:42 - Starting charging for AGV-8
+2025-11-07T03:14:42 - Unexpected error: Range [0, 18) out of bounds for length 16
+2025-11-07T03:14:43 - Starting charging for AGV-9
+2025-11-07T03:14:44 - Finished charging AGV-9
+2025-11-07T03:14:45 - Starting charging for AGV-10
+2025-11-07T03:14:45 - Unexpected error: Range [0, 18) out of bounds for length 17
+2025-11-07T03:25:42 - Starting charging for AGV-1
+2025-11-07T03:25:43 - Starting charging for AGV-2
+2025-11-07T03:25:43 - Finished charging AGV-1
+2025-11-07T03:25:43 - Starting charging for AGV-3
+2025-11-07T03:25:44 - Finished charging AGV-2
+2025-11-07T03:25:44 - Finished charging AGV-3
+2025-11-07T03:25:46 - Starting charging for AGV-4
+2025-11-07T03:25:48 - Finished charging AGV-4
+2025-11-07T03:25:48 - Starting charging for AGV-6
+2025-11-07T03:25:48 - Finished charging AGV-6
+2025-11-07T03:25:50 - Starting charging for AGV-7
+2025-11-07T03:25:50 - Unexpected error: Range [0, 18) out of bounds for length 17
+2025-11-07T03:25:53 - Starting charging for AGV-8
+2025-11-07T03:25:54 - Finished charging AGV-8
